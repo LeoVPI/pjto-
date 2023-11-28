@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(244, 247, 250);
+}
+
+footer{
+    background-color: rgb(129, 129, 129);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(7, 78, 231), #ee0808;
+    padding: 40px 100px;
+    position: absolute;
+    width: 100%;
+    bottom: 0%;
+    
+}
+
+.imagem{
+    width: 300px;
+    height: 200px;
+    
+}
